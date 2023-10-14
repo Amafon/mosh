@@ -351,3 +351,20 @@ a {
 .card-secondary .badge--secondary {
   background-color: #02cdf1;
 }
+
+.media {
+  display: flex;
+  gap: 10px;
+}
+
+.media__image {
+  margin-top: 1rem;
+}
+
+.media__body {
+  padding: 0 2rem;
+}
+
+.media__title {
+  margin-top: 0px;
+}
