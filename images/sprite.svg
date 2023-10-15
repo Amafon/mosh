@@ -244,4 +244,7 @@
       <path d="m16.5 17h-9c-.276 0-.5-.224-.5-.5s.224-.5.5-.5h9c.276 0 .5.224.5.5s-.224.5-.5.5z"></path>
     </g>
   </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" fill="#000000" viewBox="0 0 24 24" id="line">
+    <path d="M23 13H2v-2h21v2z"></path>
+  </symbol>
 </svg>
