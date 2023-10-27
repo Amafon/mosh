@@ -222,7 +222,7 @@ a {
   font-size: 1.8rem;
   font-weight: 600;
   text-align: center;
-  padding: 2rem 3rem;
+  padding: 2rem 4vw;
   text-transform: uppercase;
   white-space: nowrap;
   display: inline-block;
@@ -724,7 +724,7 @@ a {
 }
 
 .nav__brand {
-  transform: translateY(5x);
+  transform: translateY(5px);
 }
 
 @media screen and (min-width: 768px) {
@@ -749,6 +749,15 @@ a {
 /* Tagline */
 .hero {
   clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 100%);
+}
+
+.hero .btn {
+  display: block;
+  width: 50%;
+}
+
+.hero .block__heading {
+  /* font-size: 4rem; */
 }
 
 .hero__tagline {
@@ -783,7 +792,7 @@ a {
 
 .block-domain__prices {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 6rem);
   font-size: 2rem;
   font-weight: 600;
