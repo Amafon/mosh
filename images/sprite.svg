@@ -247,14 +247,10 @@
   <symbol xmlns="http://www.w3.org/2000/svg" fill="#000000" viewBox="0 0 24 24" id="line">
     <path d="M23 13H2v-2h21v2z"></path>
   </symbol>
-  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff" viewBox="-2.4 -2.4 28.80 28.80" id="chevron">
-    <g id="chevron" stroke-width="0">
-      <rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="14.4" fill="#918ca4" strokewidth="0"></rect>
-    </g>
-    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-    <g id="SVGRepo_iconCarrier">
-      <path d="M6 9L12 15L18 9" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-    </g>
+<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 51" id="chevron">
+    <circle cx="25.5" cy="25.5" r="25.5" fill="#393939"/>
+    <rect x="24.4" y="27.9" width="1.6" height="15.24" rx=".8" transform="rotate(-39 11.114 37.674)"/>
+    <rect x="33.3" y="27.9" width="1.6" height="15.24" rx=".8" transform="rotate(37.3 44.444 24.605)"/>
   </symbol>
   <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" id="easy">
     <path d="M184 304H72a8 8 0 00-8 8v96a8 8 0 008 8h112a8 8 0 008-8v-96a8 8 0 00-8-8zm-8 96H80v-80h96z"/>
